@@ -1,0 +1,13 @@
+hey:привет:hallo
+how:как:wie
+your:твои:die deinen
+cases:дела:ding
+thanks:спасибо:danke
+what:что:was
+such:такое:ein solches
+so:так:so
+or:или:oder
+mindset:настрой:einstellung
+manual:ручная:manuelle
+bank:банк:bank
+no:нет:nein

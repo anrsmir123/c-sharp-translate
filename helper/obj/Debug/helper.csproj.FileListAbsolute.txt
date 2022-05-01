@@ -1,0 +1,9 @@
+C:\Users\user\Documents\SharpDevelop Projects\transleid\helper\obj\Debug\helper.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\transleid\helper\bin\Debug\helper.dll
+C:\Users\user\Documents\SharpDevelop Projects\transleid\helper\bin\Debug\helper.pdb
+C:\Users\user\Documents\SharpDevelop Projects\transleid\helper\obj\Debug\helper.dll
+C:\Users\user\Documents\SharpDevelop Projects\transleid\helper\obj\Debug\helper.pdb
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\bin\Debug\helper.dll
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\bin\Debug\helper.pdb
+C:\Users\user\Documents\SharpDevelop Projects\transleid\helper\obj\Debug\helper.Spravka.resources
+C:\Users\user\Documents\SharpDevelop Projects\transleid\helper\obj\Debug\helper.csproj.GenerateResource.Cache

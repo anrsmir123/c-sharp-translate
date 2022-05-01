@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transleid", "transleid\transleid.csproj", "{8CA8B7C3-A193-4087-903E-65C59153A5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helper", "helper\helper.csproj", "{6E7F6062-DDD1-44B7-B00A-63ECE4FC3137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA8B7C3-A193-4087-903E-65C59153A5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA8B7C3-A193-4087-903E-65C59153A5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA8B7C3-A193-4087-903E-65C59153A5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA8B7C3-A193-4087-903E-65C59153A5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7F6062-DDD1-44B7-B00A-63ECE4FC3137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7F6062-DDD1-44B7-B00A-63ECE4FC3137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7F6062-DDD1-44B7-B00A-63ECE4FC3137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7F6062-DDD1-44B7-B00A-63ECE4FC3137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

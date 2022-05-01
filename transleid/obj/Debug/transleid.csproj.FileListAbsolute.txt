@@ -1,0 +1,11 @@
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\bin\Debug\transleid.exe
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\bin\Debug\transleid.pdb
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.exe
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.pdb
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.reges1.resources
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.reges2.resources
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\obj\Debug\transleid.glavd.resources
+C:\Users\user\Documents\SharpDevelop Projects\transleid\transleid\bin\Debug\helper.pdb
